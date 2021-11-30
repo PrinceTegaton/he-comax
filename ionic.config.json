@@ -1,0 +1,8 @@
+{
+  "name": "HeComax",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "19be05ce"
+}
